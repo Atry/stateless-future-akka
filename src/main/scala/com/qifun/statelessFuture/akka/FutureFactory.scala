@@ -82,7 +82,7 @@ object FutureFactory {
   /**
    * Used for type check, to distinguish futures for different actors.
    */
-  sealed abstract class TailRecResult[+FutureFactory] {
+  sealed abstract class TailRecResult[+Id] {
     def continue(context: ActorContext): Unit
   }
 
