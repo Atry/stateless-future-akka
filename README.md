@@ -102,5 +102,5 @@ Put these lines in your `build.sbt` if you use [Sbt](http://www.scala-sbt.org/):
 
 ## Links
 
-* [The API document](http://central.maven.org/maven2/com/qifun/stateless-future-akka_2.11/0.1.1/stateless-future-akka_2.11-0.1.1-javadoc.jar)
+* [The API document](https://static.javadoc.io/com.qifun/stateless-future-akka_2.11/0.1.1/com/qifun/statelessFuture/akka/package.html)
 * [Tests and examples](https://github.com/Atry/stateless-future-test/tree/2.10.x/test/src/test/scala/com/qifun/statelessFuture/test/run)
